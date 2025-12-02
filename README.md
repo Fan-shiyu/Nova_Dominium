@@ -1,5 +1,5 @@
 # Nova Dominium  
-[![Demo](https://img.shields.io/badge/Demo-yellow?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GWpRTGGQHvk)
+[![Demo](https://img.shields.io/badge/Demo-yellow?logo=youtube&logoColor=white)](https://youtu.be/LWCr_vuKkGE)
 [![Tool](https://img.shields.io/badge/Tool-blue?logo=googlechrome&logoColor=white)](https://domain-vault-probe.lovable.app/)
 
 **Domain Due-Diligence & Ownership Intelligence**
