@@ -1,4 +1,7 @@
 # Nova Dominium  
+[![Demo](https://img.shields.io/badge/Demo-yellow?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=GWpRTGGQHvk)
+[![Tool](https://img.shields.io/badge/Tool-blue?logo=googlechrome&logoColor=white)](https://domain-vault-probe.lovable.app/)
+
 **Domain Due-Diligence & Ownership Intelligence**
 
 Nova Dominium automates the collection and analysis of domain information to help legal, compliance, and security teams quickly identify ownership issues and domain-related risks. Users can upload domain lists, run automated checks, review enriched data, and download structured reports in minutes.
