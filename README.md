@@ -11,7 +11,7 @@ Supports:
 - Excel (.xlsx)  
 - Text (.txt)
 
-Nova Dominium automatically extracts domain names and prepares them for analysis.
+It automatically extracts domain names and prepares them for analysis.
 
 ### Automated Intelligence Pipeline
 For each domain, the system fetches and enriches data from:
@@ -45,7 +45,7 @@ Each processed domain includes:
 - Link to a PDF evidence report
 
 ### Evidence Reports
-Nova Dominium generates a standardized PDF for each domain, containing:
+The tool generates a standardized PDF for each domain, containing:
 - Summary and ownership details  
 - Risk explanation  
 - WHOIS/RDAP data  
